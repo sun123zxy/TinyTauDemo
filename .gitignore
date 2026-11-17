@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# uv
+uv.lock
+
+# Virtual environments
+.venv
+
+# Quarto-generated files
+/.quarto/
+/_output/
+/_site/
+
+/.luarc.json
+
+**/*.quarto_ipynb
