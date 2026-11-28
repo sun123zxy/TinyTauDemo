@@ -4,11 +4,11 @@
 # Repository containing the human-authored roadmap files.
 # Sync copies human files from this repository verbatim and realigns
 # AI-maintained roadmap files.
-human-repo: sun123zxy/TinyTauDemoRoadmap
+human-repo: sun123zxy/TinyTauDemo
 
 # Branch of human-repo used as the source for Sync.
 # Set this to the branch the human authors publish their roadmap on.
-human-branch: master
+human-branch: human-roadmap
 
 # Directory in human-repo to copy into this repository's roadmap/.
 # Paths start at the human repository root. The default, /, selects the
